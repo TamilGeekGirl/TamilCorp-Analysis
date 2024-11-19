@@ -1,4 +1,4 @@
-This folder contains all the language resources created from TamilCorp
+This folder contains the code and link to access all the language resources created from TamilCorp
 
 **1.TamilDictionary.json** - A Tamil dictionary containing x Tamil words along with their frequencies obtained from TamilCorp.
 
