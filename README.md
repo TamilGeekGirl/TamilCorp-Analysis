@@ -31,7 +31,7 @@ Results of **exploratory data analysis** of a genre-rich balanced Tamil corpus n
 8. Pairplot (Scatter Plot Matrix) for Numerical Features
 9. Summer's lexical diversity measure across genres
 
-## independent 2 sample t-tests
+## Independent 2 sample t-tests
 1. TTR of Brown and TamilCorp
 2. TTR of COCA and TamilCorp
 3. TTR of COHA and TamilCorp
