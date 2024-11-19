@@ -1,6 +1,6 @@
 This folder contains the code and link to access all the language resources created from TamilCorp
 
-**1.TamilDictionary.json** - A Tamil dictionary containing x Tamil words along with their frequencies obtained from TamilCorp.
+**1.TamilDictionary.json** - A Tamil dictionary containing around 8 million Tamil words obtained from TamilCorp. Includes words from 17 different genres. Some 
 
 **2.tamil_word2vec.model** - A word2vec model obtained from the corpus that has 615 KB text data from each genre in TamilCorp (The input file used for all the statistical tests of significance).
 
